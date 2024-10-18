@@ -263,6 +263,7 @@
 
 
         <!-- Trending products (Grid) -->
+
         @include('user.partials.trending_product')
         
 
